@@ -1,7 +1,7 @@
 <img width="579" alt="linear-regression-12" src="https://github.com/Aravind8281/Regression/assets/95999211/e97917bf-ab18-4a36-8f6c-dd1b36bd5a22">
 
 # Regression
-
+ 
 In machine learning, regression is a type of predictive modeling technique that analyzes the relationship between a dependent variable and one or more independent variables. The goal is to understand and predict the value of the dependent variable based on the input features.
 
 ## Real-World Explanation
