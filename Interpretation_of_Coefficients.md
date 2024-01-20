@@ -1,5 +1,5 @@
 The interpretation of coefficients in a regression model involves understanding the impact of a one-unit change in an independent variable on the dependent variable while keeping other variables constant. The coefficients represent the change in the mean of the dependent variable for each one-unit change in the corresponding independent variable.
- 
+  
 For instance, in the context of a simple linear regression model (y = β₀ + β₁x + ε):
  
 - **Intercept (β₀):** It represents the estimated mean value of the dependent variable when all independent variables are set to zero. In many cases, the intercept might not have a meaningful interpretation, especially if setting all variables to zero is unrealistic or meaningless.
