@@ -26,7 +26,3 @@ Imagine predicting the price of a house based on various factors such as the num
 - **NumPy and Pandas:** Essential libraries for data manipulation and analysis.
 - **Matplotlib and Seaborn:** Create informative visualizations to understand model performance.
 - **Jupyter Notebooks:** Interactive notebooks for experimenting and visualizing regression workflows.
-
----
-
-**License:** This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
