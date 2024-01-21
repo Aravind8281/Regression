@@ -1,4 +1,4 @@
-<img width="579" alt="linear-regression-12" src="https://github.com/Aravind8281/Regression/assets/95999211/e97917bf-ab18-4a36-8f6c-dd1b36bd5a22">
+<img width="579" alt="linear-regression-12" src="https://github.com/Aravind8281/Regression/assets/95999211/e97917bf-ab18-4a36-8f6c-dd1b36bd5a22"> 
   
 # Regression 
   
