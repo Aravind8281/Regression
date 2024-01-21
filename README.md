@@ -8,7 +8,7 @@ In machine learning, regression is a type of predictive modeling technique that 
   
 Imagine predicting the price of a house based on various factors such as the number of bedrooms, square footage, and neighborhood. Regression models can be applied to analyze historical data and make predictions about future house prices.
 
-## Use Case
+## Use Case 
 
 **Predicting Stock Prices:** Utilize regression to forecast stock prices based on historical market data, helping investors make informed decisions.
 
