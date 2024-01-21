@@ -4,7 +4,7 @@
   
 In machine learning, regression is a type of predictive modeling technique that analyzes the relationship between a dependent variable and one or more independent variables. The goal is to understand and predict the value of the dependent variable based on the input features.
  
-## Real-World Explanation
+## Real-World Explanation 
   
 Imagine predicting the price of a house based on various factors such as the number of bedrooms, square footage, and neighborhood. Regression models can be applied to analyze historical data and make predictions about future house prices.
 
