@@ -1,4 +1,4 @@
-1. **Nature of the Target Variable:**
+1. **Nature of the Target Variable:** 
    - **Continuous Variable:** Regression is typically used when the target variable is continuous. For example, predicting house prices, temperature, sales, etc.
    - **Categorical Variable:** If the target variable is categorical, you might be looking at a classification problem rather than regression.
 
