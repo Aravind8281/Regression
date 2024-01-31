@@ -1,6 +1,6 @@
 1. **Nature of the Target Variable:** 
    - **Continuous Variable:** Regression is typically used when the target variable is continuous. For example, predicting house prices, temperature, sales, etc.
-   - **Categorical Variable:** If the target variable is categorical, you might be looking at a classification problem rather than regression.
+   - **Categorical Variable:** If the target variable is categorical, you might be looking at a classification problem rather than regression. 
 
 2. **Data Exploration:**
    - **Histograms and Distributions:** Plot histograms or kernel density plots to visualize the distribution of the target variable. If it looks like a bell curve or has a continuous range, it's likely a regression problem.
